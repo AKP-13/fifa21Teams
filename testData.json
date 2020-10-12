@@ -1,4 +1,86 @@
 {
+    "Argentina": {
+        "Liga Profesional de Fútbol": [
+            "Aldosivi",
+            "Argentinos Jrs.",
+            "Arsenal",
+            "Atlético Tucumán",
+            "Banfield",
+            "Buenos Aires",
+            "Central Córdoba",
+            "Colón",
+            "Defensa",
+            "Estudiantes",
+            "Gimnasia",
+            "Godoy Cruz",
+            "Huracán",
+            "Independiente",
+            "Lanús",
+            "Newell's",
+            "Núñez",
+            "Patronato",
+            "Racing Club",
+            "Rosario Central",
+            "San Lorenzo",
+            "Talleres",
+            "Unión",
+            "Vélez Sarsfield"
+        ]
+    },
+    "Australia": {
+        "A-League": [
+            "Adelaide United",
+            "Brisbane Roar",
+            "Central Coast",
+            "Macarthur FC",
+            "Melb. Victory",
+            "Melbourne City",
+            "Newcastle Jets",
+            "Perth Glory",
+            "Sydney FC",
+            "Well. Phoenix",
+            "Western United",
+            "WS Wanderers"
+        ]
+    },
+    "Austria": {
+        "Ö. Bundesliga": [
+            "Admira Wacker",
+            "FK Austria Wien",
+            "LASK",
+            "RB Salzburg",
+            "SCR Altach",
+            "SK Rapid Wien",
+            "SK Sturm Graz",
+            "SKN St. Pölten",
+            "SV Ried",
+            "TSV Hartberg",
+            "Wolfsberger AC",
+            "WSG Tirol"
+        ]
+    },
+    "Belgium": {
+        "1A Pro League": [
+            "K Beerschot VA",
+            "Cercle Brugge",
+            "Club Brugge",
+            "Excel Mouscron",
+            "KAA Gent",
+            "KAS Eupen",
+            "KRC Genk",
+            "KV Kortrijk",
+            "KV Mechelen",
+            "KV Oostende",
+            "OH Leuven",
+            "Royal Antwerp FC",
+            "RSC Anderlecht",
+            "Sint-Truiden",
+            "Sp. Charleroi",
+            "Standardge",
+            "Waasl. Beveren",
+            "Zulte Waregem"
+        ]
+    },
     "England": {
         "Premier League": [
             [
