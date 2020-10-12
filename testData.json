@@ -5,8 +5,7 @@
                 "Arsenal",
                 "Chelsea",
                 "Manchester United",
-                "Spurs"               
-
+                "Spurs"
             ]
         ],
         "Championship": [
@@ -14,7 +13,13 @@
                 "Luton",
                 "Reading"
             ]
-        ] 
+        ],
+        "League 1": [
+            [
+                "Wallsall",
+                "Stevenage"
+            ]
+        ]
     },
     "France": {
         "Ligue 1": [
@@ -23,6 +28,22 @@
                 "Monaco",
                 "OM",
                 "PSG"
+            ]
+        ]
+    },
+    "Spain": {
+        "Liga BBVA": [
+            [
+                "Atletico Madrid",
+                "Barcelona",
+                "Real Madrid",
+                "Sevilla"
+            ]
+        ],
+        "Liga Dos": [
+            [
+                "Elche",
+                "Villadoid"
             ]
         ]
     }
