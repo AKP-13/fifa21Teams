@@ -311,24 +311,26 @@
     },
     "Germany": {
         "Bundesliga": [
-            "1. FC Köln",
-            "1. FSV Manz 05",
-            "Bielefel",
-            "Dortmund",
-            "FC Augsbug",
-            "FC Bayern",
-            "FC Schalk 04",
-            "Frankfurt",
-            "Hertha Berin",
-            "Leverkusen",
-            "M'gladbach",
-            "RB Leipzig",
-            "SC Freiburg",
-            "TSG Hoffenhem",
-            "Union Berlin",
-            "VfB Stuttgart",
-            "VfL Wolfsburg",
-            "Werder Bremen"
+            [
+                "1. FC Köln",
+                "1. FSV Manz 05",
+                "Bielefel",
+                "Dortmund",
+                "FC Augsbug",
+                "FC Bayern",
+                "FC Schalk 04",
+                "Frankfurt",
+                "Hertha Berin",
+                "Leverkusen",
+                "M'gladbach",
+                "RB Leipzig",
+                "SC Freiburg",
+                "TSG Hoffenhem",
+                "Union Berlin",
+                "VfB Stuttgart",
+                "VfL Wolfsburg",
+                "Werder Bremen"
+            ]
         ],
         "Bundesliga 2": [
             [
@@ -689,38 +691,42 @@
     },
     "Saudi Arabia": {
         "MBS Pro League": [
-            "Abha Club",
-            "Al Adalah",
-            "Al Ahli",
-            "Al Faisaly",
-            "Al Fateh",
-            "Al Fayha",
-            "Al Hazem",
-            "Al Hilal",
-            "Al Ittihad",
-            "Al Nassr",
-            "Al Raed",
-            "Al Shabab",
-            "Al Taawoun",
-            "Al Wehda",
-            "Damac FC",
-            "Ettifaq FC"
+            [
+                "Abha Club",
+                "Al Adalah",
+                "Al Ahli",
+                "Al Faisaly",
+                "Al Fateh",
+                "Al Fayha",
+                "Al Hazem",
+                "Al Hilal",
+                "Al Ittihad",
+                "Al Nassr",
+                "Al Raed",
+                "Al Shabab",
+                "Al Taawoun",
+                "Al Wehda",
+                "Damac FC",
+                "Ettifaq FC"
+            ]
         ]
     },
     "Scotland": {
         "Scottish Prem": [
-            "Aberdeen",
-            "Celtic",
-            "Dundee United",
-            "Hamilton",
-            "Hibernian",
-            "Kilmarnock",
-            "Livingston",
-            "Motherwell",
-            "Rangers",
-            "Ross County",
-            "St. Johnstone",
-            "St. Mirren"
+            [
+                "Aberdeen",
+                "Celtic",
+                "Dundee United",
+                "Hamilton",
+                "Hibernian",
+                "Kilmarnock",
+                "Livingston",
+                "Motherwell",
+                "Rangers",
+                "Ross County",
+                "St. Johnstone",
+                "St. Mirren"
+            ]
         ]
     },
     "Spain": {
